@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!--  In order for this to work you’ll need to set your permalink structure to something that uses post names in the urls instead of numbers. -->
+<body id="<?php $post_parent = get_post($post->post_parent); $parentSlug = $post_parent->post_name; if (is_category()) { echo "CategoryPage"; } elseif (is_search()) { echo "SearchResults"; } elseif (is_tag()) { echo "Tag"; } else { echo $parentSlug; } ?>" class="<?php if (is_category()) { echo 'category'; } elseif (is_search()) { echo 'search'; } elseif (is_tag()) { echo "tag"; } elseif (is_home()) { echo "home"; } elseif (is_404()) { echo "page404"; } else { echo $post->post_name; } ?>">$0]]></content>
+	<tabTrigger>body</tabTrigger>
+	<description>WP body</description>
+</snippet>
