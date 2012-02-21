@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	<menu type="$1">
+		command$0
+	</menu>]]></content>
+	<tabTrigger>menu</tabTrigger>
+	<description>menu</description>
+</snippet>

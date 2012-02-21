@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[target="_parent"]]></content>
+	<tabTrigger>target</tabTrigger>
+	<description>_parent</description>
+</snippet>

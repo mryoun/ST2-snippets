@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<article${1: class="hentry"}>
+	<header>
+		<h1 class="entry-title">$1</h1>
+	</header>
+	$0
+</article>]]></content>
+	<tabTrigger>article</tabTrigger>
+	<description>hentry</description>
+</snippet>

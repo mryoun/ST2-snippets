@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<nav${1: role="navigation"}>
+	ul$0
+</nav>]]></content>
+	<tabTrigger>nav</tabTrigger>
+	<description>nav</description>
+</snippet>

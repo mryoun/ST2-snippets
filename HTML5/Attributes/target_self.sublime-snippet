@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[target="_self"]]></content>
+	<tabTrigger>target</tabTrigger>
+	<description>_self</description>
+</snippet>

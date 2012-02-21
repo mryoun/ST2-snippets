@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="dns-prefetch" href="${1://ajax.googleapis.com}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>prefetch</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<command type="${1:command/checkbox/radio}" label="$2" icon="${3:/icons/icon.png}">$0]]></content>
+	<tabTrigger>command</tabTrigger>
+	<description>command</description>
+</snippet>

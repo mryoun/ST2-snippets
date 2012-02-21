@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<address>
+	$0
+</address>]]></content>
+	<tabTrigger>address</tabTrigger>
+	<description>address</description>
+</snippet>

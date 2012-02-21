@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="search" href="${2:/search}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>search</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="sitemap" type="application/xml" title="${1:Sitemap}" href="${2:/sitemap.xml}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>charset</description>
+</snippet>

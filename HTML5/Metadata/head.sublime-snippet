@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<head>
+	<meta charset="utf-8">
+	<title>$1</title>$0
+</head>]]></content>
+	<tabTrigger>head</tabTrigger>
+	<description>head</description>
+</snippet>

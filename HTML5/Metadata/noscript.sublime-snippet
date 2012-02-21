@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<noscript>$0</noscript>]]></content>
+	<tabTrigger>noscript</tabTrigger>
+	<description>noscript</description>
+</snippet>

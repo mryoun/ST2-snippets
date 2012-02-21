@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<ol>
+	li$0
+</ol>]]></content>
+	<tabTrigger>ol</tabTrigger>
+	<description>ol</description>
+</snippet>

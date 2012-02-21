@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	<iframe src="$1">
+		$0
+	</iframe>]]></content>
+	<tabTrigger>iframe</tabTrigger>
+	<description>iframe</description>
+</snippet>

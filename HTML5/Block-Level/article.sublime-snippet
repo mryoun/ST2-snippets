@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<article${1: role="main"}>
+	$0
+</article>]]></content>
+	<tabTrigger>article</tabTrigger>
+	<description>main</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="canonical" href="$1">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>canonical</description>
+</snippet>

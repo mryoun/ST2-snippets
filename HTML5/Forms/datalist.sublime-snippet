@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<datalist>
+	option$0
+</datalist>]]></content>
+	<tabTrigger>datalist</tabTrigger>
+	<description>datalist</description>
+</snippet>

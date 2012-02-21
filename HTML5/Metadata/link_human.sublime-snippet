@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="author" href="${1:/humans.txt}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>human</description>
+</snippet>

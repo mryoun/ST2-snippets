@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+	<dl>
+		dt$0
+		dd
+	</dl>]]></content>
+	<tabTrigger>dl</tabTrigger>
+	<description>dl</description>
+</snippet>

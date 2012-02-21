@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[title="$0"]]></content>
+	<tabTrigger>title</tabTrigger>
+	<description>title (attribute)</description>
+</snippet>

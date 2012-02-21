@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<header${1: role="banner"}>
+	h$0
+</header>]]></content>
+	<tabTrigger>header</tabTrigger>
+	<description>header</description>
+</snippet>

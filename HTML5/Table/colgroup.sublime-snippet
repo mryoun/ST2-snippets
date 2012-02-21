@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<colgroup>
+	$0
+</colgroup>]]></content>
+	<tabTrigger>colgroup</tabTrigger>
+	<description>colgroup</description>
+</snippet>

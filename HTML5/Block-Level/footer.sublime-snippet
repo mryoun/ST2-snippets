@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<footer${1: role="contentinfo"}>
+	$0
+</footer>]]></content>
+	<tabTrigger>footer</tabTrigger>
+	<description>footer</description>
+</snippet>

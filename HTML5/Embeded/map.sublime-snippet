@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	<map name="$1">
+		area$0
+	</map>]]></content>
+	<tabTrigger>map</tabTrigger>
+	<description>map</description>
+</snippet>

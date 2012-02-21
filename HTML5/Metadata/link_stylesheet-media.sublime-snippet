@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="stylesheet" media="screen and (min-width: ${1:1200px})" href="${2:small.css}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>media queries</description>
+</snippet>

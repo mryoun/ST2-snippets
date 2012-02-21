@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<optgroup label="$1">
+	option$0
+</optgroup>]]></content>
+	<tabTrigger>optgroup</tabTrigger>
+	<description>optgroup</description>
+</snippet>

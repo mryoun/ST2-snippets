@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<meter>$1</meter>$0]]></content>
+	<tabTrigger>meter</tabTrigger>
+	<description>meter</description>
+</snippet>

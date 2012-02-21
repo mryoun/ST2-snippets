@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<meta http-equiv="imagetoolbar" content="false">$0]]></content>
+	<tabTrigger>meta</tabTrigger>
+	<description>ie6 imagetoolbar</description>
+</snippet>

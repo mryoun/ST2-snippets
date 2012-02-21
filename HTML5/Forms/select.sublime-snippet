@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<select name="$1">$2</select>$0]]></content>
+	<tabTrigger>select</tabTrigger>
+	<description>select</description>
+</snippet>

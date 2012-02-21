@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[role="contentinfo"$0]]></content>
+	<tabTrigger>role</tabTrigger>
+	<description>contentinfo</description>
+</snippet>

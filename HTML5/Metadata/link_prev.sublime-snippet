@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link rel="prev" href="${2:/page1.php}">$0]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>prev</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<ruby>$1</ruby>$0]]></content>
+	<tabTrigger>ruby</tabTrigger>
+	<description>ruby</description>
+</snippet>

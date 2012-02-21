@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<audio src="$1"${2: autobuffer}${3: autoloop}${4: loop}${5: controls}}>
+		$0
+	</audio>]]></content>
+	<tabTrigger>audio</tabTrigger>
+	<description>audio</description>
+</snippet>

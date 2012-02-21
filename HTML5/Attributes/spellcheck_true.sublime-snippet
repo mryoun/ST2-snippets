@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[spellcheck="true"$0]]></content>
+	<tabTrigger>spellcheck</tabTrigger>
+	<description>true</description>
+</snippet>

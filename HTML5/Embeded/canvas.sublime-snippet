@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<canvas id="$1"$>
+	$0
+</canvas>]]></content>
+	<tabTrigger>canvas</tabTrigger>
+	<description>canvas</description>
+</snippet>
