@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Copyright &copy; ${1:2009}-<?php echo date('Y'); ?>$0]]></content>
+	<tabTrigger>copyright</tabTrigger>
+</snippet>
