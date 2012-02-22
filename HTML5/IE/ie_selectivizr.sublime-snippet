@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--[if (gte IE 6)&(lte IE 8)]>
+	<script type="text/javascript" src="${1:/js/libs/}selectivizr.js"></script>
+	<noscript><link rel="stylesheet" href="${2:/css/fallback.css}" /></noscript>
+<![endif]-->$0]]></content>
+	<tabTrigger>ie</tabTrigger>
+	<description>selectivizr</description>
+</snippet>
