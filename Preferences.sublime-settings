@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"theme": "Soda Dark.sublime-theme",
+	"font_face": "Meslo LG S",
+	"font_size": 10,
+	"font_options": ["no_bold"],
+	"tab_size": 2,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"default_encoding": "UTF-8",
+	"default_line_ending": "system"
+}

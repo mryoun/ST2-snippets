@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": 1330354551,
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Can I Use",
+		"Git",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SideBarEnhancements",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"User",
+		"Whitespace Corrector",
+		"WinMerge",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/mryoun/ST2-snippets"
+	],
+	"package_name_map": {
+		"ST2-snippets": "User"
+	}
+}
