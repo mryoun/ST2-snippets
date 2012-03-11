@@ -1,10 +1,16 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery.min.js"
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"less": "https://github.com/cloudhead/less.js/raw/master/dist/less-1.2.2.min.js",
+		"modernizr": "https://github.com/Modernizr/Modernizr/raw/master/modernizr.js",
+		"normalize": "https://github.com/necolas/normalize.css/raw/master/normalize.css",
+		"selectivizr": "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js"
 	},
 	"packages":
 	{
-		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+		"h5bp": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"h5bp build script": "https://github.com/h5bp/ant-build-script/zipball/master",
+		"h5bp-ui": "https://github.com/h5bp/h5bp-ui/zipball/master"
 	}
 }

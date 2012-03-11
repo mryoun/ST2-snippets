@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1330354551,
+	"auto_upgrade_last_run": 1331468324,
 	"installed_packages":
 	[
 		"Alignment",
@@ -18,11 +18,12 @@
 		"WinMerge",
 		"ZenCoding"
 	],
+	"package_name_map":
+	{
+		"ST2-snippets": "User"
+	},
 	"repositories":
 	[
 		"https://github.com/mryoun/ST2-snippets"
-	],
-	"package_name_map": {
-		"ST2-snippets": "User"
-	}
+	]
 }
