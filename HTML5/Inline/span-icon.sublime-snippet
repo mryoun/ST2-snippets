@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<span aria-hidden="true" data-icon="$1"></span>$0]]></content>
+	<tabTrigger>span</tabTrigger>
+	<description>span</description>
+</snippet>
