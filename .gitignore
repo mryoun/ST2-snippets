@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.sublime-keymap
 *.sublime-settings
 !Fetch.sublime-settings
+!Preferences.sublime-settings
 *.tmLanguage
 *.tmLanguage.cache
 *.json
