@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[<?php
-// set permalink
 function set_permalink(){
 	global $wp_rewrite;
 	$wp_rewrite->set_permalink_structure('/%year%/%monthnum%/%postname%/');
@@ -9,4 +8,5 @@ add_action('init', 'set_permalink');
 ?>$0]]></content>
 	<tabTrigger>perma</tabTrigger>
 	<description>WP permalinks function</description>
+	<scope>source.php</scope>
 </snippet>
