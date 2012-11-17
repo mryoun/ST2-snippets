@@ -6,7 +6,7 @@
 		"modernizr": "https://github.com/Modernizr/Modernizr/raw/master/modernizr.js",
 		"normalize": "https://github.com/necolas/normalize.css/raw/master/normalize.css",
 		"selectivizr": "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js",
-		"boxsizing.htc": "https://raw.github.com/Schepp/box-sizing-polyfill/master/boxsizing.htc",
+		"boxsizing.htc": "https://raw.github.com/Schepp/box-sizing-polyfill/master/boxsizing.htc"
 	},
 	"packages":
 	{
