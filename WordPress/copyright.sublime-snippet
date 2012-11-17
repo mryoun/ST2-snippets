@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Copyright &copy; ${1:2009}-<?php echo date('Y'); ?>$0]]></content><scope>source.php</scope>
+	<content><![CDATA[Copyright &copy; ${1:2009}-<?php echo date('Y'); ?>$0]]></content>
 	<tabTrigger>copyright</tabTrigger>
 	<scope>source.php</scope>
 </snippet>
