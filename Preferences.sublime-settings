@@ -1,7 +1,10 @@
 {
+    "bold_folder_labels": true,
+    "caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
+	"draw_centered": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Meslo LG S",
@@ -10,11 +13,18 @@
 		"no_bold"
 	],
 	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": false,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_numbers": true,
+	"preview_on_click": true,
+	"remember_open_files": true,
+	"scroll_past_end": true,
+	"show_panel_on_build": true,
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
 	"trim_automatic_white_space": true,
