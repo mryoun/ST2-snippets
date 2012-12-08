@@ -1,6 +1,6 @@
 {
-    "bold_folder_labels": true,
-    "caret_style": "phase",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",

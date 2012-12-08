@@ -9,6 +9,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # SublimeText
+*.last-run
 *.sublime-workspace
 *.sublime-keymap
 *.sublime-settings
