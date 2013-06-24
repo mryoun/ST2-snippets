@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<hgroup>
-	h$0
-	h
-</hgroup>]]></content>
-	<tabTrigger>hgroup</tabTrigger>
-	<description>hgroup</description>
-</snippet>
