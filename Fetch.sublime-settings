@@ -2,6 +2,7 @@
 	"files":
 	{
 		"boxsizing.htc": "https://raw.github.com/Schepp/box-sizing-polyfill/master/boxsizing.htc",
+		"gmaps": "https://raw.github.com/HPNeo/gmaps/master/gmaps.js",
 		"jquery": "http://code.jquery.com/jquery.min.js",
 		"less": "https://github.com/cloudhead/less.js/raw/master/dist/less-1.2.2.min.js",
 		"modernizr": "https://github.com/Modernizr/Modernizr/raw/master/modernizr.js",
