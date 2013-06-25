@@ -24,6 +24,7 @@ $RECYCLE.BIN/
 *.sublime-project
 *.sublime-settings
 *.sublime-workspace
+!Emmet.sublime-settings
 !Fetch.sublime-settings
 !Markdown.sublime-settings
 !Package Control.sublime-settings

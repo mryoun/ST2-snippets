@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<form action="${1:/action.php}" method="${2:get/post}">
+<form action="${1:/action.php}" method="${2:get/post}"${3: role="form"}>
 	$0
 </form>]]></content>
 	<tabTrigger>form</tabTrigger>

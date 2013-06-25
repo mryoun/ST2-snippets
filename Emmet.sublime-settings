@@ -1,0 +1,6 @@
+{
+	"disabled_on_single_snippets": "html area",
+	"disabled_single_snippet_for_scopes": "text.html",
+	"known_html_tags": "title base style noscript section nav article aside h1 h2 h3 h4 h5 h6 header footer address p hr pre blockquote ol ul li dl dt dd figure figcaption div a em strong small s cite q dfn abbr data time code var samp kbd sub sup b u mark ruby rt rp bdi bdo br wbr ins del img iframe embed object param video audio source track canvas map svg math table caption colgroup col tbody thead tfoot tr td th fieldset legend label input button select datalist optgroup option textarea keygen output progress meter details summary command menu",
+	"empty_elements": "base basefont br col frame hr img input isindex param embed"
+}
