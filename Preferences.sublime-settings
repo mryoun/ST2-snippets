@@ -7,12 +7,13 @@
 	"draw_centered": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
 	"font_face": "Meslo LG S",
 	"font_options":
 	[
 		"no_bold"
 	],
-	"font_size": 11,
+	"font_size": 13.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": false,
 	"hot_exit": true,
