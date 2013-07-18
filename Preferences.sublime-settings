@@ -1,19 +1,20 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark)-ya.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"draw_centered": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
-	"font_face": "Meslo LG S",
+	"font_face": "Meslo LG M",
 	"font_options":
 	[
-		"no_bold"
+		"no_bold",
+		"no_round"
 	],
-	"font_size": 13.0,
+	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": false,
 	"hot_exit": true,
@@ -28,7 +29,34 @@
 	"show_panel_on_build": true,
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"file_exclude_patterns":
+		[
+			"*.sublime-settings",
+			".htaccess",
+			"*.min.js"
+		],
+		"folder_exclude_patterns":
+		[
+			"_config",
+			"_tests",
+			"cache",
+			"fonts",
+			"vendor",
+			"jqmobi"
+		],
+		"patterns":
+		{
+			"@note": "@note[\\s]*?:?(?P<docblocknote>\\S.*)$",
+			"@todo": "@todo[\\s]*?:?(?P<dockblocktodo>\\S.*)$"
+		}
+	},
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+
+    "line_padding_top": 3,
+    "line_padding_bottom": 3
 }

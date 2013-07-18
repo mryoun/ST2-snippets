@@ -2,10 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
 		"HTML5",
@@ -14,12 +17,13 @@
 		"jQuery Snippets pack",
 		"LESS",
 		"LESS-build",
+		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"Theme - Soda",
-		"Whitespace Corrector"
+		"SublimeTODO",
+		"Theme - Soda"
 	]
 }
